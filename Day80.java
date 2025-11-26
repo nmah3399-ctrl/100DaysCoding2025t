@@ -11,9 +11,9 @@ public class Day80 {
         for (int i = 0; i < angka.length; i++) {
             angka[i] = n.nextInt();
         }   
-        System.out.println("\nIsi array:");
+        System.out.println("Isi array:");
         for (int i = 0; i < angka.length; i++) {
-            System.out.println("angka:[" + i + "] ="+ angka[i]);
+            System.out.println("angka[" + i + "] ="+ angka[i]);
         }         
     }
     
